@@ -2,7 +2,7 @@
 
 $dbhost = "localhost";
 $dbuser = "root";
-$dbpass = "indridiqiadi";
+$dbpass = "";
 $dbname = "crazy math";
 
 ?>
